@@ -89,6 +89,7 @@ const ConverterBlock: React.FC<IConverterBlock> = inject(
       });
     };
 
+
     return (
       <Paper className={classes.paper}>
         <div className={classes.cryptoInputBox}>
